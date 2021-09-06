@@ -1,0 +1,11 @@
+AFF
+2 2
+KIRILL
+3 4
+BE
+3 9
+MARS
+9 5
+#ADJ_LIST
+3 9| 1 9 5
+9 5| 1 2 2
